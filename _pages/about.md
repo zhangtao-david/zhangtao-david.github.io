@@ -36,7 +36,7 @@ redirect_from:
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 📝 学术出版物
 
 ### 英文论文
 ---
@@ -64,15 +64,30 @@ redirect_from:
 
 - `Xin, X.`, Jiang, Q., Li, C., Li, S., & Chen, K. (2023). Permutation flow shop energy-efficient scheduling with a position-based learning effect. *International Journal of Production Research*, 61(2), 382-409.
 
+- `Xin, X.`, Wang, X., Chen, Z., & Chen, K. (2021). Coastal shuttle tanker inventory routing model with a discrete loaded quantity. *Applied Economics*, 53, 6120-6137.
+
 - `Xin, X.`, Liu, M., Wang, X., Chen, H., & Chen, K. (2022). Investment strategy for blockchain technology in a shipping supply chain. *Ocean & Coastal Management*, 226, 106263.
 
 - `Xin, X.`, Liu, M., Wang, X., Zhang, T., Gao, L., & Chen, K. (2022). Evolutionary analysis of Japan's nuclear wastewater discharge events considering the impact of participants’ emotions. *Ocean & Coastal Management*, 225, 106231.
 
 - `Xin, X.`, Zhang, T., He, F., Zhang, W., & Chen, K. (2023). Assessing and simulating changes in ecosystem service value based on land use/cover change in coastal cities: A case study of Shanghai, China. *Ocean & Coastal Management*, 239, 106591.
 
+- `Xin, X.`, Zhang, T., Xiang, Z., & Liu, M. (2025). Battery electric vehicle transportation network robust pricing-infrastructure location model with boundedly rational travelers. *Applied Energy*, 386, 125606.
+
 - Liu, M., `Xin, X.*`, Wang, X., Zhang, T., & Chen, K. (2025). Dual-channel slot sales strategy for container liner shipping companies with blockchain technology adoption. *Transport Policy*, 162, 200-220.
 
-- Li, D., `Xin, X.*`, & Zhou, S. (2023). Integrated governance of the Yangtze River Delta port cluster using niche theory: A case study of Shanghai Port and Ningbo-Zhoushan Port. *Ocean & Coastal Management*, 234, 106474. (ESI Top 1%)
+- Li, D., `Xin, X.*`, & Zhou, S. (2023). Integrated governance of the Yangtze River Delta port cluster using niche theory: A case study of Shanghai Port and Ningbo-Zhoushan Port. *Ocean & Coastal Management*, 234, 106474. `(ESI Top 1%)`
+
+- Xiang, Z., `Xin, X.*`, Zhang, T., Chen, K., & Liu, M. (2025). Asia‒Europe liner shipping network design model considering Arctic route and black carbon tax. *Ocean & Coastal Management*, 261, 107492.
+
+- Gao, S., `Xin, X.*`, Li, C., Liu, Y., & Chen, K. (2022). Container ocean shipping network design considering carbon tax and choice inertia of cargo owners. *Ocean & Coastal Management*, 216, 105986.
+
+- Chen, K., Guo, J., `Xin, X.*`, Zhang, T., & Zhang, W. (2023). Port sustainability through integration: A port capacity and profit-sharing joint optimization approach. *Ocean & Coastal Management*, 245, 106867.
+
+### 教材
+---
+- 王效俐，`辛旭`，高凌宇，沈四林. 物流运输与配送管理（第2版）. 清华大学出版社. [[试读]](http://www.tup.tsinghua.edu.cn/bookscenter/book_09126701.html) 
+
 
 ### 中文论文
 ---
@@ -89,7 +104,11 @@ redirect_from:
 # 🏅 荣誉奖项
 - *2016.05* 获得 “中国动力谷杯”第十一届全国大学生交通科技大赛 `国家二等奖`
 - *2016.06* 获得 第二届全国大学生水运创新大赛 `国家二等奖`
+- *2019.12* 获得 “华为杯”第十六届中国研究生数学建模竞赛 `国家二等奖`
+- *2022.08* 获得 “赛迪环保杯”第十三届全国大学生节能减排社会实践与科技竞赛 `国家二等奖`
+- *2021.10* 获得 第七届中国国际“互联网+”大学生创新创业大赛 `国家铜奖`
 - *2022.08* 获得 “六百光年杯”第十五届全国大学生节能减排社会实践与科技竞赛 `国家一等奖` [[新闻]](https://news.tongji.edu.cn/info/1003/81684.htm)
+- *2024.05* 获得 “船视宝杯”第二十届全国大学生交通运输科技大赛 `国家二等奖` [[网页]](http://www.nactrans.net/Notice/NoticeShow/1195.html)
 
 <span class='anchor' id='-xshy'></span>
 
