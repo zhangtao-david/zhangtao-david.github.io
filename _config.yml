@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "辛旭"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/logo.png"
   bio              : "同济大学"
   location         : "上海"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=EPQMk1kAAAAJ"
-  email            : "xinxu@tongji.edu.cn"
+  email            : "xu-david.xin@connect.polyu.hk"
   researchgate     : "https://www.researchgate.net/profile/Xu-Xin-17"
   uri              : 
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjyan"
+  github           : "xinxu-david"
   google_plus      :
   keybase          :
   instagram        :
