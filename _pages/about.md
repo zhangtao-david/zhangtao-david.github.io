@@ -29,7 +29,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2023.09 - 至今*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 香港理工大学 物流及航运学系, 香港特别行政区, 博士研究生（双学位联合培养）— 
+- *2023.09 - 至今*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 香港理工大学 物流及航运学系, 香港特别行政区, 博士研究生，双学位联合培养
 - *2018.09 - 至今*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="23pt"></a> 同济大学 经济与管理学院, 上海, 硕博连读 
 - *2014.09 - 2018.06*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="23pt"></a> 大连海事大学 航运经济与管理学院, 辽宁大连, 本科
  
@@ -37,7 +37,7 @@ redirect_from:
 
 # 📝 论文专利
 
-### 英文
+### 英文论文
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -98,7 +98,7 @@ redirect_from:
 -	Erlong Li, Yihua Kang, `Jian Tang`, Jianbo Wu, Xizi Yan. Analysis on Spatial Spectrum of Magnetic Flux Leakage Using Fourier Transform. *IEEE Transactions on Magnetics*. 2018, 54(8): 1–10. (JCR:Q3; IF:1.700)  
 [[网页]](https://dx.doi.org/10.1109/TMAG.2018.2844220) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf) [[下载]](/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf)
 
-### 中文
+### 中文论文
 ---
 
 - 	`唐健`，王荣彪，康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67. (核心期刊)  
