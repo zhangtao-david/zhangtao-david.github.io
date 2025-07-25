@@ -29,8 +29,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2023.09 - 至今*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 香港理工大学 物流及航运学系, 香港特别行政区, 博士研究生，双学位联合培养
-- *2018.09 - 至今*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="23pt"></a> 同济大学 经济与管理学院, 上海, 硕博连读 
+- *2023.09 - 至今*, <a href="https://www.polyu.edu.hk/"></a>香港理工大学 物流及航运学系, 香港特别行政区, 博士研究生，双学位联合培养
+- *2018.09 - 至今*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> 同济大学 经济与管理学院, 上海, 硕博连读 
 - *2014.09 - 2018.06*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="23pt"></a> 大连海事大学 航运经济与管理学院, 辽宁大连, 本科
  
 <span class='anchor' id='-lwzl'></span>
