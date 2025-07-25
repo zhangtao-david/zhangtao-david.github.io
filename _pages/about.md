@@ -30,9 +30,9 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2023.09 - 至今*, <a href="https://www.polyu.edu.hk/"></a>香港理工大学 物流及航运学系, 香港特别行政区, 博士研究生，双学位联合培养
-- *2018.09 - 至今*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="32pt"></a> 同济大学 经济与管理学院, 上海, 硕博连读 
-- *2014.09 - 2018.06*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="23pt"></a> 大连海事大学 航运经济与管理学院, 辽宁大连, 本科
+- *2023.09 - 至今*, <a href="https://www.polyu.edu.hk/"></a>香港理工大学 [物流及航运学系](https://www.polyu.edu.hk/lms/), 香港特别行政区, 博士研究生（联合培养）
+- *2018.09 - 至今*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="32pt"></a> 同济大学 [经济与管理学院](https://sem.tongji.edu.cn/), 上海, 博士研究生
+- *2014.09 - 2018.06*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="23pt"></a> 大连海事大学 [航运经济与管理学院](https://hg.dlmu.edu.cn/), 辽宁大连, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -114,7 +114,7 @@ redirect_from:
 
 # 🏛️ 学术会议
 - *2020.11.5-7*, The 3rd International Conference of the Yangtze-River Research and Innovation Belt (Y-RIB), 中国宁波. 报告主题：*Intermodal Cargo-Container Joint Flow Equilibrium and Pricing*.
-- *2024.3.24-28*	The 2nd International Symposium on Data-Driven Intelligent Optimization for Decision Making (DIODM2024), 日本松江. 报告主题：*Port sustainability through integration: A port capacity and profit-sharing joint optimization approach*. [[网址]](http://www.icicconference.org/diodm2024/)
+- *2024.3.24-28*	The 2nd International Symposium on Data-Driven Intelligent Optimization for Decision Making (DIODM2024), 日本松江. 报告主题：*Port sustainability through integration: A port capacity and profit-sharing joint optimization approach*. [[网页]](http://www.icicconference.org/diodm2024/)
 - *2024.8.29-30*, The 2nd PolyU Research Student Conference (PRSC 2024), 中国香港. 报告主题：*Liner shipping fleet planning with uncertain demand: a data-driven distributionally robust chance-constrained optimization approach*. 获奖： `最佳演讲奖（Best Presentation Award）`
 [[网页]](https://events.polyu.edu.hk/prsc2024/listofawardees)
 - *2025.7.2-4*, The 3rd PolyU Research Student Conference (PRSC 2025), 中国香港. 报告主题：*Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints*. 获奖： `最佳论文奖 - 优秀奖（Best Paper Merit）`
