@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 香港理工大学工商管理学院物流及航运学系（导师：王帅安教授）、同济大学经济与管理学院管理科学与工程专业（导师：王效俐教授）联合培养双学位博士研究生。
- <a href='https://scholar.google.com/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+当前引用次数为：<a href='https://scholar.google.com/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
 - 港口管理
@@ -42,7 +42,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2025</div><img src='images/TRB.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Zhang, T., Wang, S., and `Xin, X*`. (2025). Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints. *Transportation Research Part B: Methodological*, 197, 103236.
+-	Zhang, T., Wang, S., & `Xin, X*`. (2025). Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints. *Transportation Research Part B: Methodological*, 197, 103236.
 [[网页]](https://doi.org/10.1016/j.trb.2025.103236) [[下载]](https://www.sciencedirect.com/science/article/pii/S0191261525000852)
 
 </div>
@@ -57,22 +57,21 @@ redirect_from:
 </div>
 </div>
 
-- `Xin, X.`, Wang, X., Ma, L., Chen, K., & Ye, M. (2022). Shipping network design–infrastructure investment joint optimization model: a case study of West Africa. *Maritime Policy & Management*, 49(5), 620-646. 
-[[网页]](https://dx.doi.org/10.3390/ma15207362)
+- `Xin, X.`, Wang, X., Ma, L., Chen, K., & Ye, M. (2022). Shipping network design–infrastructure investment joint optimization model: a case study of West Africa. *Maritime Policy & Management*, 49(5), 620-646.
 
-- `Xin, X.`, Zhang, T., Wang, X., He, F., & Wu, L. (2025). Risk-averse distributionally robust optimization for construction waste reverse logistics with a joint chance constraint. Computers & Operations Research, 173, 106829.
+- `Xin, X.`, Zhang, T., Wang, X., He, F., & Wu, L. (2025). Risk-averse distributionally robust optimization for construction waste reverse logistics with a joint chance constraint. *Computers & Operations Research*, 173, 106829.
 
-- `Xin, X.`, Jiang, Q., Li, C., Li, S., & Chen, K. (2023). Permutation flow shop energy-efficient scheduling with a position-based learning effect. International Journal of Production Research, 61(2), 382-409.
+- `Xin, X.`, Jiang, Q., Li, C., Li, S., & Chen, K. (2023). Permutation flow shop energy-efficient scheduling with a position-based learning effect. *International Journal of Production Research*, 61(2), 382-409.
 
-- `Xin, X.`, Liu, M., Wang, X., Chen, H., & Chen, K. (2022). Investment strategy for blockchain technology in a shipping supply chain. Ocean & Coastal Management, 226, 106263.
+- `Xin, X.`, Liu, M., Wang, X., Chen, H., & Chen, K. (2022). Investment strategy for blockchain technology in a shipping supply chain. *Ocean & Coastal Management*, 226, 106263.
 
-- `Xin, X.`, Liu, M., Wang, X., Zhang, T., Gao, L., & Chen, K. (2022). Evolutionary analysis of Japan's nuclear wastewater discharge events considering the impact of participants’ emotions. Ocean & Coastal Management, 225, 106231.
+- `Xin, X.`, Liu, M., Wang, X., Zhang, T., Gao, L., & Chen, K. (2022). Evolutionary analysis of Japan's nuclear wastewater discharge events considering the impact of participants’ emotions. *Ocean & Coastal Management*, 225, 106231.
 
-- `Xin, X.`, Zhang, T., He, F., Zhang, W., & Chen, K. (2023). Assessing and simulating changes in ecosystem service value based on land use/cover change in coastal cities: A case study of Shanghai, China. Ocean & Coastal Management, 239, 106591.
+- `Xin, X.`, Zhang, T., He, F., Zhang, W., & Chen, K. (2023). Assessing and simulating changes in ecosystem service value based on land use/cover change in coastal cities: A case study of Shanghai, China. *Ocean & Coastal Management*, 239, 106591.
 
-- Liu, M., `Xin, X.*`, Wang, X., Zhang, T., & Chen, K. (2025). Dual-channel slot sales strategy for container liner shipping companies with blockchain technology adoption. Transport Policy, 162, 200-220.
+- Liu, M., `Xin, X.*`, Wang, X., Zhang, T., & Chen, K. (2025). Dual-channel slot sales strategy for container liner shipping companies with blockchain technology adoption. *Transport Policy*, 162, 200-220.
 
-- Li, D., `Xin, X.*`, & Zhou, S. (2023). Integrated governance of the Yangtze River Delta port cluster using niche theory: A case study of Shanghai Port and Ningbo-Zhoushan Port. Ocean & Coastal Management, 234, 106474. (ESI Top 1%)
+- Li, D., `Xin, X.*`, & Zhou, S. (2023). Integrated governance of the Yangtze River Delta port cluster using niche theory: A case study of Shanghai Port and Ningbo-Zhoushan Port. *Ocean & Coastal Management*, 234, 106474. (ESI Top 1%)
 
 ### 中文论文
 ---
@@ -87,7 +86,9 @@ redirect_from:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
-- *2022.08* 获得 “六百光年杯”第十五届全国大学生节能减排社会实践与科技竞赛 `一等奖` [[新闻]](https://news.tongji.edu.cn/info/1003/81684.htm)
+- *2016.05* 获得 “中国动力谷杯”第十一届全国大学生交通科技大赛 `国家二等奖`
+- *2016.06* 获得 第二届全国大学生水运创新大赛 `国家二等奖`
+- *2022.08* 获得 “六百光年杯”第十五届全国大学生节能减排社会实践与科技竞赛 `国家一等奖` [[新闻]](https://news.tongji.edu.cn/info/1003/81684.htm)
 
 <span class='anchor' id='-xshy'></span>
 
