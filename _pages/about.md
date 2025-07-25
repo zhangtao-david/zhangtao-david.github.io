@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 香港理工大学工商管理学院物流及航运学系（导师：王帅安教授）、同济大学经济与管理学院管理科学与工程专业（导师：王效俐教授）联合培养双学位博士研究生。
+
 当前引用次数为：<a href='https://scholar.google.com/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：

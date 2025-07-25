@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "辛旭"
+  name             : "辛旭 Xu (David) Xin"
   avatar           : "images/logo.png"
-  bio              : "同济大学"
-  location         : "上海"
+  bio              : "香港理工大学、同济大学"
+  location         : "香港特别行政区、上海"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=EPQMk1kAAAAJ"
