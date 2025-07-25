@@ -25,15 +25,13 @@ redirect_from:
 - 航运管理
 - 物流系统优化
 - 应急管理
-- 航线网络设计
   
-
-
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
+- *2023.09 - 至今*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 香港理工大学 物流及航运学系, 香港特别行政区, 博士研究生（双学位联合培养）— 
+- *2018.09 - 至今*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="23pt"></a> 同济大学 经济与管理学院, 上海, 硕博连读 
+- *2014.09 - 2018.06*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="23pt"></a> 大连海事大学 航运经济与管理学院, 辽宁大连, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
