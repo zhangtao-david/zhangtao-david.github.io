@@ -82,10 +82,7 @@ redirect_from:
 
 ### 专利
 ---
-- 康宜华, `唐健`. 一种基于铁磁性板的缺陷检测方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AAA)
-- 康宜华, `唐健`. 基于电磁原理的倒角测量装置.[[网页]](http://www.wanfangdata.com.cn/details/detail.do?_type=patent&id=CN201921137073.X)
-
-
+- 李翠，`辛旭`，等. 一种保温快递包装盒，ZL 2019 2 1630125.7.
 
 <span class='anchor' id='-ryjx'></span>
 
