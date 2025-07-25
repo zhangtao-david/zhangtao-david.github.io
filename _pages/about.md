@@ -102,6 +102,14 @@ redirect_from:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
+
+### 荣誉称号
+---
+- *2021.05* 获得 同济大学追求卓越奖[[新闻]](https://news.tongji.edu.cn/info/1002/78028.htm)
+- *2024.05* 获得 同济青年五四奖章（个人）[[新闻]](https://mp.weixin.qq.com/s?__biz=MzI1NDkxMzc4Mw==&mid=2247524704&idx=1&sn=4f64edd38d2a6ce101f4bec5cdd333f0&chksm=ea3fdcf8dd4855ee35fdf76aa6328f3aef48ea4629f5eacdf339c880fea5d89c74ac9a068237&scene=27)
+
+### 创新创业竞赛
+---
 - *2016.05* 获得 “中国动力谷杯”第十一届全国大学生交通科技大赛 `国家二等奖`
 - *2016.06* 获得 第二届全国大学生水运创新大赛 `国家二等奖`
 - *2019.12* 获得 “华为杯”第十六届中国研究生数学建模竞赛 `国家二等奖`
