@@ -39,7 +39,7 @@ redirect_from:
 
 ### 英文论文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2025</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2025</div><img src='images/TRB.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Zhang, T., Wang, S., and `Xin, X`. (2025). Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints. *Transportation Research Part B: Methodological*, 197, 103236.
