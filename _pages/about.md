@@ -95,10 +95,6 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
-- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
-- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
-
 - *2020.11.5-7*, The 3rd International Conference of the Yangtze-River Research and Innovation Belt (Y-RIB), 中国宁波. 报告主题：*Intermodal Cargo-Container Joint Flow Equilibrium and Pricing*.
 - *2024.3.24-28*	The 2nd International Symposium on Data-Driven Intelligent Optimization for Decision Making (DIODM2024), 日本松江. 报告主题：*Port sustainability through integration: A port capacity and profit-sharing joint optimization approach*.
 - *2024.8.29-30*, The 2nd PolyU Research Student Conference (PRSC 2024), 中国香港. 报告主题：*Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints*. 获奖： `最佳演讲奖（Best Presentation Award）`
@@ -109,7 +105,9 @@ redirect_from:
 
 <span class='anchor' id='-gzsx'></span>
 
-# 💻 工作实习
-- *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
-- *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
-- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+# 💻 学术服务
+- 委员会成员：Faculty Research Committee (FRC) Member, Faculty of Business (2024-2025, The Hong Kong Polytechnic University)
+
+- 会议组织：The 3rd PolyU Research Student Conference (PRSC 2025), 2-4 July 2025, Hong Kong: Student Organization Committee General Co-chairs.
+
+- 期刊审稿人：Transportation Research Part B: Methodological; Transportation Research Part E: Logistics and Transportation Review; Transport Policy; Maritime Policy & Management; Computers & Operations Research; Maritime Economics & Logistics; International Journal of Shipping and Transport Logistics; Applied Energy; Computers & Industrial Engineering; Research in Transportation Economics; IEEE Transactions on Engineering Management; International Journal of Logistics; Journal of Cleaner Production; PLOS ONE
