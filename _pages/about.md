@@ -77,20 +77,13 @@ redirect_from:
 ### 中文论文
 ---
 
-- 	杨忠振，杨云茜， `辛旭`. 全球性重大灾害事件背景下港航运营管理研究综述. *交通运输工程学报*. 2023, 23(5): 1-18. (EI)  
-[[网页]](https://transport.chd.edu.cn/cn/article/doi/10.19818/j.cnki.1671-1637.2023.05.001?viewType=HTML) [[下载]](https://plugin.sowise.cn/viewpdf/88889029_48aa200e-fb27-4710-9b3d-27dfda00b4dd?_sowise_user=8448c553-0548-4f21-92a2-1fd5d6ba1e4e&articleNo=undefined&staticFilePath=/fileJTYSGCXB/journal/article/jtysgcxb/2023/5/)  
+- 	杨忠振，杨云茜， `辛旭`. 全球性重大灾害事件背景下港航运营管理研究综述. *交通运输工程学报*. 2023, 23(5): 1-18. (EI) 
+[[网页]](https://transport.chd.edu.cn/cn/article/doi/10.19818/j.cnki.1671-1637.2023.05.001?viewType=HTML) [[下载]](https://plugin.sowise.cn/viewpdf/88889029_48aa200e-fb27-4710-9b3d-27dfda00b4dd?_sowise_user=8448c553-0548-4f21-92a2-1fd5d6ba1e4e&articleNo=undefined&staticFilePath=/fileJTYSGCXB/journal/article/jtysgcxb/2023/5/) 
 
 ### 专利
 ---
 - 康宜华, `唐健`. 一种基于铁磁性板的缺陷检测方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AAA)
 - 康宜华, `唐健`. 基于电磁原理的倒角测量装置.[[网页]](http://www.wanfangdata.com.cn/details/detail.do?_type=patent&id=CN201921137073.X)
-- 伍剑波, 王杰, 方辉, `唐健`. 一种钢管脉冲磁化漏磁探伤装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105334260A&v=) 
-- 伍剑波, `唐健`, 王杰, 方辉. 一种基于动生涡电流的金属管件电磁无损检测装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105510433A&v=) 
-- 刁燕, 陈敏, 王荣彪, `唐健`, 蒲廷燕, 都健. 一种基于绳体拉力传动的机械手. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105773598A&v=) 
-
-
-
-
 
 
 
@@ -105,6 +98,14 @@ redirect_from:
 - *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
 - *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
 - *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
+
+- *2020.11.5-7*, The 3rd International Conference of the Yangtze-River Research and Innovation Belt (Y-RIB), 中国宁波. 报告主题：*Intermodal Cargo-Container Joint Flow Equilibrium and Pricing*.
+- *2024.3.24-28*	The 2nd International Symposium on Data-Driven Intelligent Optimization for Decision Making (DIODM2024), 日本松江. 报告主题：*Port sustainability through integration: A port capacity and profit-sharing joint optimization approach*.
+- *2024.8.29-30*, The 2nd PolyU Research Student Conference (PRSC 2024), 中国香港. 报告主题：*Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints*. 获奖： `最佳演讲奖（Best Presentation Award）`
+[[网页]](https://events.polyu.edu.hk/prsc2024/listofawardees)
+- *2025.7.2-4*, The 2nd PolyU Research Student Conference (PRSC 2024), 中国香港. 报告主题：*Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints*. 获奖： `最佳论文奖 - 优秀奖（Best Paper Merit）`
+[[网页]](https://events.polyu.edu.hk/prsc2025/awardee)
+
 
 <span class='anchor' id='-gzsx'></span>
 
