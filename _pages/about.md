@@ -108,6 +108,6 @@ redirect_from:
 # 💻 学术服务
 - 委员会成员：Faculty Research Committee (FRC) Member, Faculty of Business (2024-2025, The Hong Kong Polytechnic University)
 
-- 会议组织：The 3rd PolyU Research Student Conference (PRSC 2025), 2-4 July 2025, Hong Kong: Student Organization Committee General Co-chairs.
+- 学术会议组织：The 3rd PolyU Research Student Conference (PRSC 2025), 2-4 July 2025, Hong Kong: Student Organization Committee General Co-chairs.
 
 - 期刊审稿人：Transportation Research Part B: Methodological; Transportation Research Part E: Logistics and Transportation Review; Transport Policy; Maritime Policy & Management; Computers & Operations Research; Maritime Economics & Logistics; International Journal of Shipping and Transport Logistics; Applied Energy; Computers & Industrial Engineering; Research in Transportation Economics; IEEE Transactions on Engineering Management; International Journal of Logistics; Journal of Cleaner Production; PLOS ONE
