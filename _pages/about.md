@@ -57,7 +57,6 @@ redirect_from:
 </div>
 </div>
 
-
 - `Xin, X.`, Wang, X., Ma, L., Chen, K., & Ye, M. (2022). Shipping network design–infrastructure investment joint optimization model: a case study of West Africa. *Maritime Policy & Management*, 49(5), 620-646. 
 [[网页]](https://dx.doi.org/10.3390/ma15207362)
 
@@ -74,7 +73,6 @@ redirect_from:
 - Liu, M., `Xin, X.*`, Wang, X., Zhang, T., & Chen, K. (2025). Dual-channel slot sales strategy for container liner shipping companies with blockchain technology adoption. Transport Policy, 162, 200-220.
 
 - Li, D., `Xin, X.*`, & Zhou, S. (2023). Integrated governance of the Yangtze River Delta port cluster using niche theory: A case study of Shanghai Port and Ningbo-Zhoushan Port. Ocean & Coastal Management, 234, 106474. (ESI Top 1%)
-
 
 ### 中文论文
 ---
