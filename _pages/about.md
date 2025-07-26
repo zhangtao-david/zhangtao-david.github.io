@@ -84,6 +84,10 @@ redirect_from:
 
 - Chen, K., Guo, J., `Xin, X.*`, Zhang, T., & Zhang, W. (2023). Port sustainability through integration: A port capacity and profit-sharing joint optimization approach. *Ocean & Coastal Management*, 245, 106867.
 
+- Li, Z., Wang, L., Wang, G., `Xin, X.*`, Chen, K., & Zhang, T. (2024). Investment and subsidy strategy for low-carbon port operation with blockchain adoption. *Ocean & Coastal Management*, 248, 106966.
+
+- Liu, M., Lai, K.-h., Wong, C. W., `Xin, X.`, & Lun, V. Y. (2024). Smart ports for sustainable shipping: concept and practices revisited through the case study of China’s Tianjin port. *Maritime Economics & Logistics*, 1-46.
+
 ### 教材
 ---
 - 王效俐，`辛旭`，高凌宇，沈四林. 物流运输与配送管理（第2版）. 清华大学出版社. [[试读]](http://www.tup.tsinghua.edu.cn/bookscenter/book_09126701.html) 
