@@ -38,7 +38,7 @@ redirect_from:
 
 # 📝 学术出版物
 
-### 英文论文
+### 代表性英文论文
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2025</div><img src='images/TRB.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -93,7 +93,7 @@ redirect_from:
 - 王效俐，`辛旭`，高凌宇，沈四林. 物流运输与配送管理（第2版）. 清华大学出版社. [[试读]](http://www.tup.tsinghua.edu.cn/bookscenter/book_09126701.html) 
 
 
-### 中文论文
+### 代表性中文论文
 ---
 
 - 	杨忠振，杨云茜， `辛旭`. 全球性重大灾害事件背景下港航运营管理研究综述. *交通运输工程学报*. 2023, 23(5): 1-18. (EI) 
@@ -109,7 +109,9 @@ redirect_from:
 
 ### 荣誉称号
 ---
-- *2021.05* 获得 同济大学追求卓越奖 [[新闻]](https://news.tongji.edu.cn/info/1002/78028.htm)
+- *2021.05* 获得 同济大学追求卓越奖（同济大学颁发给学生的最高荣誉称号） [[新闻]](https://news.tongji.edu.cn/info/1002/78028.htm)
+- *2022.11* 获得 上海高校百名学生党员标兵 [[新闻]](https://mp.weixin.qq.com/s?__biz=MzI1NDkxMzc4Mw==&mid=2247507866&idx=1&sn=a4e26b20957d8849bb003f57cc84d8bb&chksm=ea3f6202dd48eb14d033c5c20a63ec489614a3df06256632d2709dc81a3422290e0c645a4f09&scene=27)
+- *2023.10* 获得 上海高校团干部示范典型 [[新闻]](https://mp.weixin.qq.com/s?__biz=Mzg5MDcxMzU5OA==&mid=2247511206&idx=1&sn=dd4ca4f58cb427c50acdad2a65c73e22&poc_token=HHSzhGijX18HAduxQ2ZY6fKnzCUqk5DKwSSs0geU)
 - *2024.05* 获得 同济青年五四奖章 [[新闻]](https://mp.weixin.qq.com/s?__biz=MzI1NDkxMzc4Mw==&mid=2247524704&idx=1&sn=4f64edd38d2a6ce101f4bec5cdd333f0&chksm=ea3fdcf8dd4855ee35fdf76aa6328f3aef48ea4629f5eacdf339c880fea5d89c74ac9a068237&scene=27)
 
 ### 创新创业竞赛
