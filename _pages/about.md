@@ -24,13 +24,13 @@ redirect_from:
 我的研究领域包括：
 - 港口管理
 - 航运管理
-- 物流系统优化
-- 应急管理
+- 交通、物流系统优化
+- 应急管理、人道主义物流
   
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2023.09 - 至今*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a>香港理工大学 [物流及航运学系](https://www.polyu.edu.hk/lms/), 香港特别行政区, 博士研究生（联合培养）
+- *2023.09 - 至今*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> 香港理工大学 [物流及航运学系](https://www.polyu.edu.hk/lms/), 香港特别行政区, 博士研究生（联合培养）
 - *2018.09 - 至今*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> 同济大学 [经济与管理学院](https://sem.tongji.edu.cn/), 上海, 博士研究生
 - *2014.09 - 2018.06*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="25pt"></a> 大连海事大学 [航运经济与管理学院](https://hg.dlmu.edu.cn/), 辽宁大连, 本科
  
@@ -97,7 +97,6 @@ redirect_from:
 
 ### 代表性中文论文
 ---
-
 - 	杨忠振，杨云茜， `辛旭`. 全球性重大灾害事件背景下港航运营管理研究综述. *交通运输工程学报*. 2023, 23(5): 1-18. (EI) 
 [[网页]](https://transport.chd.edu.cn/cn/article/doi/10.19818/j.cnki.1671-1637.2023.05.001?viewType=HTML) [[下载]](https://plugin.sowise.cn/viewpdf/88889029_48aa200e-fb27-4710-9b3d-27dfda00b4dd?_sowise_user=8448c553-0548-4f21-92a2-1fd5d6ba1e4e&articleNo=undefined&staticFilePath=/fileJTYSGCXB/journal/article/jtysgcxb/2023/5/) 
 
@@ -115,6 +114,7 @@ redirect_from:
 - *2022.11* 获得 上海高校百名学生党员标兵 [[新闻]](https://mp.weixin.qq.com/s?__biz=MzI1NDkxMzc4Mw==&mid=2247507866&idx=1&sn=a4e26b20957d8849bb003f57cc84d8bb&chksm=ea3f6202dd48eb14d033c5c20a63ec489614a3df06256632d2709dc81a3422290e0c645a4f09&scene=27)
 - *2023.10* 获得 上海高校团干部示范典型 [[新闻]](https://mp.weixin.qq.com/s?__biz=Mzg5MDcxMzU5OA==&mid=2247511206&idx=1&sn=dd4ca4f58cb427c50acdad2a65c73e22&poc_token=HHSzhGijX18HAduxQ2ZY6fKnzCUqk5DKwSSs0geU)
 - *2024.05* 获得 同济青年五四奖章 [[新闻]](https://mp.weixin.qq.com/s?__biz=MzI1NDkxMzc4Mw==&mid=2247524704&idx=1&sn=4f64edd38d2a6ce101f4bec5cdd333f0&chksm=ea3fdcf8dd4855ee35fdf76aa6328f3aef48ea4629f5eacdf339c880fea5d89c74ac9a068237&scene=27)
+- *2025.05* 获得 上海市普通高等学校优秀毕业生
 
 ### 创新创业竞赛
 ---
@@ -143,7 +143,7 @@ redirect_from:
 # 💻 学术服务
 - 委员会成员：Faculty Research Committee (FRC) Member, Faculty of Business (2024-2025, The Hong Kong Polytechnic University)
 
-- 学术会议组织：The 3rd PolyU Research Student Conference (PRSC 2025), 2-4 July 2025, Hong Kong: Student Organization Committee General Co-chairs.
+- 学术会议组织：The 3rd PolyU Research Student Conference (PRSC 2025), 2-4 July 2025, Hong Kong: Student Organization Committee General Co-chairs. [[网页]](https://events.polyu.edu.hk/prsc2025/organisers)
 
 - 期刊编辑：PLOS ONE (Academic Editor); Frontiers in Marine Science (Guest Editor)
 
