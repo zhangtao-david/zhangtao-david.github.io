@@ -109,8 +109,8 @@ redirect_from:
 
 ### 荣誉称号
 ---
-- *2021.05* 获得 同济大学追求卓越奖[[新闻]](https://news.tongji.edu.cn/info/1002/78028.htm)
-- *2024.05* 获得 同济青年五四奖章（个人）[[新闻]](https://mp.weixin.qq.com/s?__biz=MzI1NDkxMzc4Mw==&mid=2247524704&idx=1&sn=4f64edd38d2a6ce101f4bec5cdd333f0&chksm=ea3fdcf8dd4855ee35fdf76aa6328f3aef48ea4629f5eacdf339c880fea5d89c74ac9a068237&scene=27)
+- *2021.05* 获得 同济大学追求卓越奖 [[新闻]](https://news.tongji.edu.cn/info/1002/78028.htm)
+- *2024.05* 获得 同济青年五四奖章 [[新闻]](https://mp.weixin.qq.com/s?__biz=MzI1NDkxMzc4Mw==&mid=2247524704&idx=1&sn=4f64edd38d2a6ce101f4bec5cdd333f0&chksm=ea3fdcf8dd4855ee35fdf76aa6328f3aef48ea4629f5eacdf339c880fea5d89c74ac9a068237&scene=27)
 
 ### 创新创业竞赛
 ---
@@ -120,7 +120,8 @@ redirect_from:
 - *2022.08* 获得 “赛迪环保杯”第十三届全国大学生节能减排社会实践与科技竞赛 `国家二等奖`
 - *2021.10* 获得 第七届中国国际“互联网+”大学生创新创业大赛 `国家铜奖`
 - *2022.08* 获得 “六百光年杯”第十五届全国大学生节能减排社会实践与科技竞赛 `国家一等奖` [[新闻]](https://news.tongji.edu.cn/info/1003/81684.htm)
-- *2024.05* 获得 “船视宝杯”第二十届全国大学生交通运输科技大赛 `国家二等奖` [[网页]](http://www.nactrans.net/Notice/NoticeShow/1195.html)
+- *2025.05* 获得 “船视宝杯”第二十届全国大学生交通运输科技大赛 `国家二等奖` [[网页]](http://www.nactrans.net/Notice/NoticeShow/1195.html)
+- *2025.05* 指导学生获得 “正大杯”第十五届全国大学生市场调查与分析大赛 `国家一等奖（优秀指导教师奖）`
 
 <span class='anchor' id='-xshy'></span>
 
@@ -140,4 +141,6 @@ redirect_from:
 
 - 学术会议组织：The 3rd PolyU Research Student Conference (PRSC 2025), 2-4 July 2025, Hong Kong: Student Organization Committee General Co-chairs.
 
-- 期刊审稿人：Transportation Research Part B: Methodological; Transportation Research Part E: Logistics and Transportation Review; Transport Policy; Maritime Policy & Management; Computers & Operations Research; Maritime Economics & Logistics; International Journal of Shipping and Transport Logistics; Applied Energy; Computers & Industrial Engineering; Research in Transportation Economics; IEEE Transactions on Engineering Management; International Journal of Logistics; Journal of Cleaner Production; PLOS ONE
+- 期刊编辑：PLOS ONE (Academic Editor); Frontiers in Marine Science (Guest Editor)
+
+- 期刊审稿人：Transportation Research Part B: Methodological; Transportation Research Part E: Logistics and Transportation Review; Transport Policy; Maritime Policy & Management; Computers & Operations Research; Maritime Economics & Logistics; International Journal of Shipping and Transport Logistics; Applied Energy; Computers & Industrial Engineering; Research in Transportation Economics; IEEE Transactions on Engineering Management; International Journal of Logistics; Cities; Computers in Industry
