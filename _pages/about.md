@@ -58,6 +58,8 @@ redirect_from:
 </div>
 </div>
 
+- 姓名旁标记`*`的，为通信作者。
+
 - `Xin, X.`, Wang, X., Ma, L., Chen, K., & Ye, M. (2022). Shipping network design–infrastructure investment joint optimization model: a case study of West Africa. *Maritime Policy & Management*, 49(5), 620-646.
 
 - `Xin, X.`, Zhang, T., Wang, X., He, F., & Wu, L. (2025). Risk-averse distributionally robust optimization for construction waste reverse logistics with a joint chance constraint. *Computers & Operations Research*, 173, 106829.
