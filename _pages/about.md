@@ -143,10 +143,20 @@ redirect_from:
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 学术服务
-- 委员会成员：Faculty Research Committee (FRC) Member, Faculty of Business (2024-2025, The Hong Kong Polytechnic University)
 
-- 学术会议组织：The 3rd PolyU Research Student Conference (PRSC 2025), 2-4 July 2025, Hong Kong: Student Organization Committee General Co-chairs. [[网页]](https://events.polyu.edu.hk/prsc2025/organisers)
+### 委员会成员
+---
+- 香港理工大学商学院，学术委员会成员（2024-2025） 
 
-- 期刊编辑：PLOS ONE (Academic Editor); Frontiers in Marine Science (Guest Editor)
+### 学术会议组织
+---
+- The 3rd PolyU Research Student Conference (PRSC 2025), 2-4 July 2025, Hong Kong: Student Organization Committee General Co-chairs. [[网页]](https://events.polyu.edu.hk/prsc2025/organisers)
 
-- 期刊审稿人：Transportation Research Part B: Methodological; Transportation Research Part E: Logistics and Transportation Review; Transport Policy; Maritime Policy & Management; Computers & Operations Research; Maritime Economics & Logistics; International Journal of Shipping and Transport Logistics; Applied Energy; Computers & Industrial Engineering; Research in Transportation Economics; IEEE Transactions on Engineering Management; International Journal of Logistics; Cities; Computers in Industry
+### 期刊编辑
+---
+- PLOS ONE（学术编辑）
+- Frontiers in Marine Science（特刊编辑）
+
+### 期刊审稿人
+---
+- Transportation Research Part B: Methodological; Transportation Research Part E: Logistics and Transportation Review; Transport Policy; Maritime Policy & Management; Computers & Operations Research; Maritime Economics & Logistics; International Journal of Shipping and Transport Logistics; Applied Energy; Computers & Industrial Engineering; Research in Transportation Economics; IEEE Transactions on Engineering Management; International Journal of Logistics; Cities; Computers in Industry
