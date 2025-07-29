@@ -150,7 +150,7 @@ redirect_from:
 
 ### 学术会议组织
 ---
-- The 3rd PolyU Research Student Conference (PRSC 2025), 2-4 July 2025, Hong Kong: Student Organization Committee General Co-chairs. [[网页]](https://events.polyu.edu.hk/prsc2025/organisers)
+- The 3rd PolyU Research Student Conference (PRSC 2025), 2-4 July 2025, Hong Kong, 担任职务：General Co-chairs. [[网页]](https://events.polyu.edu.hk/prsc2025/organisers)
 
 ### 期刊编辑
 ---
