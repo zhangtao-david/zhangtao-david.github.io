@@ -19,7 +19,7 @@ redirect_from:
 
 香港理工大学工商管理学院物流及航运学系（导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授）、同济大学经济与管理学院管理科学与工程专业（导师：[王效俐](https://sem.tongji.edu.cn/semch/15155.html)教授）联合培养双学位博士研究生。截至2025年7月30日，我已发表SCI/SSCI检索论文30余篇，当前 <a href='https://scholar.google.com/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用次数为"></a>，H指数为18。
 
-我的研究领域包括：
+目前，我的研究领域主要涵盖：
 - 港口管理（例如，泊位分配、泊位与岸桥联合调度）
 - 航运管理（例如，航线网络设计、船舶调度）
 - 交通、物流系统优化（例如，电动车交通网络设计）
