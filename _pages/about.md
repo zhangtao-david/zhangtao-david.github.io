@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-香港理工大学工商管理学院物流及航运学系（导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授）、同济大学经济与管理学院管理科学与工程专业（导师：[王效俐](https://sem.tongji.edu.cn/semch/15155.html)教授）联合培养双学位博士研究生。截至目前，我发表SCI/SSCI检索论文30余篇，当前 <a href='https://scholar.google.com/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用次数"></a>，H指数为18。
+香港理工大学工商管理学院物流及航运学系（导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授）、同济大学经济与管理学院管理科学与工程专业（导师：[王效俐](https://sem.tongji.edu.cn/semch/15155.html)教授）联合培养双学位博士研究生。截至2025年7月30日，我已发表SCI/SSCI检索论文30余篇，当前 <a href='https://scholar.google.com/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用次数为"></a>，H指数为18。
 
 我的研究领域包括：
-- 港口管理
-- 航运管理
-- 交通、物流系统优化
+- 港口管理（例如，泊位分配、泊位与岸桥联合调度）
+- 航运管理（例如，航线网络设计、船舶调度）
+- 交通、物流系统优化（例如，电动车交通网络设计）
 - 应急管理、人道主义物流
   
 <span class='anchor' id='-xl'></span>
@@ -30,7 +30,7 @@ redirect_from:
 # 🎓 学历
 - *2023.09 - 至今*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> 香港理工大学 [物流及航运学系](https://www.polyu.edu.hk/lms/), 香港特别行政区, 博士研究生（联合培养），导师：王帅安教授
 - *2018.09 - 至今*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> 同济大学 [经济与管理学院](https://sem.tongji.edu.cn/), 上海, 博士研究生，导师：王效俐教授
-- *2014.09 - 2018.06*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="25pt"></a> 大连海事大学 [航运经济与管理学院](https://hg.dlmu.edu.cn/), 辽宁大连, 本科
+- *2014.09 - 2018.06*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="25pt"></a> 大连海事大学 [航运经济与管理学院](https://hg.dlmu.edu.cn/), 辽宁大连, 本科，导师：杨忠振教授、陈康教授
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -99,7 +99,7 @@ redirect_from:
 
 ### 代表性中文论文
 ---
-- 	杨忠振，杨云茜， `辛旭`. 全球性重大灾害事件背景下港航运营管理研究综述. *交通运输工程学报*. 2023, 23(5): 1-18. (EI) 
+- 	杨忠振，杨云茜，`辛旭`. 全球性重大灾害事件背景下港航运营管理研究综述. *交通运输工程学报*. 2023, 23(5): 1-18. (EI) 
 [[网页]](https://transport.chd.edu.cn/cn/article/doi/10.19818/j.cnki.1671-1637.2023.05.001?viewType=HTML) [[下载]](https://plugin.sowise.cn/viewpdf/88889029_48aa200e-fb27-4710-9b3d-27dfda00b4dd?_sowise_user=8448c553-0548-4f21-92a2-1fd5d6ba1e4e&articleNo=undefined&staticFilePath=/fileJTYSGCXB/journal/article/jtysgcxb/2023/5/) 
 
 ### 专利
@@ -127,7 +127,7 @@ redirect_from:
 - *2021.10* 获得 第七届中国国际“互联网+”大学生创新创业大赛 `国家铜奖`
 - *2022.08* 获得 “六百光年杯”第十五届全国大学生节能减排社会实践与科技竞赛 `国家一等奖` [[新闻]](https://news.tongji.edu.cn/info/1003/81684.htm)
 - *2025.05* 获得 “船视宝杯”第二十届全国大学生交通运输科技大赛 `国家二等奖` （指导教师：王帅安教授） [[网页]](http://www.nactrans.net/Notice/NoticeShow/1195.html)
-- *2025.05* 指导学生获得 “正大杯”第十五届全国大学生市场调查与分析大赛 `国家一等奖（优秀指导教师奖）` [[新闻]](https://mp.weixin.qq.com/s?__biz=MzI1NDkxMzc4Mw==&mid=2247533603&idx=1&sn=273680150124f438eec0ad188e98a00f&chksm=eb06e43d1bef49287f63223dd513aea0ae3816599b0f480ab5e4b1edebe241c9c30fb6fa2309&scene=27)
+- *2025.05* 指导学生获得 “正大杯”第十五届全国大学生市场调查与分析大赛 `国家一等奖（本人兼得优秀指导教师奖）` [[新闻]](https://mp.weixin.qq.com/s?__biz=MzI1NDkxMzc4Mw==&mid=2247533603&idx=1&sn=273680150124f438eec0ad188e98a00f&chksm=eb06e43d1bef49287f63223dd513aea0ae3816599b0f480ab5e4b1edebe241c9c30fb6fa2309&scene=27)
 
 <span class='anchor' id='-xshy'></span>
 
@@ -155,8 +155,8 @@ redirect_from:
 ### 期刊编辑
 ---
 - PLOS ONE（学术编辑）
-- Frontiers in Marine Science（特刊编辑）
+- Frontiers in Marine Science（特刊编辑） [[网页]](https://www.frontiersin.org/research-topics/66593/challenges-and-opportunities-for-decarbonizing-the-maritime-industry)
 
 ### 期刊审稿人
 ---
-- Transportation Research Part B: Methodological; Transportation Research Part E: Logistics and Transportation Review; Transport Policy; Maritime Policy & Management; Computers & Operations Research; Maritime Economics & Logistics; International Journal of Shipping and Transport Logistics; Applied Energy; Computers & Industrial Engineering; Research in Transportation Economics; IEEE Transactions on Engineering Management; International Journal of Logistics; Cities; Computers in Industry
+- Transportation Research Part B: Methodological，Transportation Research Part E: Logistics and Transportation Review，Transport Policy，Maritime Policy & Management，Computers & Operations Research，Maritime Economics & Logistics，International Journal of Shipping and Transport Logistics，Applied Energy，Computers & Industrial Engineering，Research in Transportation Economics，IEEE Transactions on Engineering Management，International Journal of Logistics，Cities，Computers in Industry
