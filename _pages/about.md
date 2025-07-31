@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-香港理工大学工商管理学院物流及航运学系（导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授）、同济大学经济与管理学院管理科学与工程专业（导师：[王效俐](https://sem.tongji.edu.cn/semch/15155.html)教授）联合培养双学位博士研究生。截至2025年7月30日，我已发表SCI/SSCI检索论文30余篇，当前 <a href='https://scholar.google.com/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用次数为"></a>，H指数为18。
+香港理工大学工商管理学院物流及航运学系（导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授）、同济大学经济与管理学院管理科学与工程专业（导师：[王效俐](https://sem.tongji.edu.cn/semch/15155.html)教授）联合培养双学位博士研究生。截至2025年7月30日，我已发表SCI/SSCI检索论文30余篇， <a href='https://scholar.google.com/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用次数为"></a>，H指数为18。
 
 目前，我的研究领域主要涵盖：
 - 港口管理（例如，泊位分配、泊位与岸桥联合调度）
@@ -51,7 +51,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	`Xin, X.`, Wang, S., & Zhang, T. (2025). Truck-drone supported humanitarian relief logistics network design: A two-stage distributionally robust optimization approach. *Transportation Research Part C: Emerging Technologies*, 178, 105231. doi: 10.1016/j.trc.2025.105231
-[[网页]](https://doi.org/10.1016/j.trc.2025.105231) [[下载]](https://www.sciencedirect.com/science/article/pii/S0968090X25002359)
+[[网页]](https://doi.org/10.1016/j.trc.2025.105231)
 
 </div>
 </div>
@@ -102,17 +102,13 @@ redirect_from:
 - 	杨忠振，杨云茜，`辛旭`. 全球性重大灾害事件背景下港航运营管理研究综述. *交通运输工程学报*. 2023, 23(5): 1-18. (EI) 
 [[网页]](https://transport.chd.edu.cn/cn/article/doi/10.19818/j.cnki.1671-1637.2023.05.001?viewType=HTML) [[下载]](https://plugin.sowise.cn/viewpdf/88889029_48aa200e-fb27-4710-9b3d-27dfda00b4dd?_sowise_user=8448c553-0548-4f21-92a2-1fd5d6ba1e4e&articleNo=undefined&staticFilePath=/fileJTYSGCXB/journal/article/jtysgcxb/2023/5/) 
 
-### 专利
----
-- 李翠，`辛旭`，等. 一种保温快递包装盒，ZL 2019 2 1630125.7.
-
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
 
 ### 荣誉称号
 ---
-- *2021.05* 获得 同济大学追求卓越奖（同济大学颁发给学生的最高荣誉称号） [[新闻]](https://news.tongji.edu.cn/info/1002/78028.htm)
+- *2021.05* 获得 同济大学追求卓越奖（同济大学颁发给学生的最高荣誉） [[新闻]](https://news.tongji.edu.cn/info/1002/78028.htm)
 - *2022.11* 获得 上海高校百名学生党员标兵 [[新闻]](https://mp.weixin.qq.com/s?__biz=MzI1NDkxMzc4Mw==&mid=2247507866&idx=1&sn=a4e26b20957d8849bb003f57cc84d8bb&chksm=ea3f6202dd48eb14d033c5c20a63ec489614a3df06256632d2709dc81a3422290e0c645a4f09&scene=27)
 - *2023.10* 获得 上海高校团干部示范典型 [[新闻]](https://mp.weixin.qq.com/s?__biz=Mzg5MDcxMzU5OA==&mid=2247511206&idx=1&sn=dd4ca4f58cb427c50acdad2a65c73e22&poc_token=HHSzhGijX18HAduxQ2ZY6fKnzCUqk5DKwSSs0geU)
 - *2024.05* 获得 同济青年五四奖章 [[新闻]](https://mp.weixin.qq.com/s?__biz=MzI1NDkxMzc4Mw==&mid=2247524704&idx=1&sn=4f64edd38d2a6ce101f4bec5cdd333f0&chksm=ea3fdcf8dd4855ee35fdf76aa6328f3aef48ea4629f5eacdf339c880fea5d89c74ac9a068237&scene=27)
@@ -146,7 +142,7 @@ redirect_from:
 
 ### 委员会成员
 ---
-- 香港理工大学商学院，学术委员会成员（2024-2025） 
+- 香港理工大学商学院，学术委员会成员（2024-2025）
 
 ### 学术会议组织
 ---
