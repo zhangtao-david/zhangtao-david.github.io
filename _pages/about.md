@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-香港理工大学工商管理学院物流及航运学系（导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授）、同济大学经济与管理学院管理科学与工程专业（导师：[王效俐](https://sem.tongji.edu.cn/semch/15155.html)教授）联合培养双学位博士研究生。截至2025年8月1日，已发表SCI/SSCI检索论文30余篇，其中第一/通信作者论文24篇，ESI高被引论文1篇，<a href='https://scholar.google.com/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用次数"></a>，H指数达18。目前，我的研究领域主要涵盖：
+香港理工大学工商管理学院物流及航运学系（导师：[王帅安](https://sites.google.com/site/wangshuaian/home)教授）、同济大学经济与管理学院（导师：[王效俐](https://sem.tongji.edu.cn/semch/15155.html)教授）联合培养双学位博士研究生。截至2025年8月1日，已发表SCI/SSCI检索论文30余篇，其中第一/通信作者论文24篇，ESI高被引论文1篇，<a href='https://scholar.google.com/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用次数"></a>，H指数达18。目前，我的研究领域主要涵盖：
 - 港口管理（例如，泊位分配、泊位与岸桥联合调度）
 - 航运管理（例如，航线网络设计、船舶调度）
 - 交通、物流系统优化（例如，电动车交通网络设计）
@@ -86,9 +86,9 @@ redirect_from:
 
 - Chen, K., Su, S., Gong, Y., `Xin, X.*`, & Zeng, Q. (2024). Coastal transportation system green policy design model based on shipping network design. *International Journal of Logistics Research and Applications*, 27(3), 428-449.
 
-- Liu, M., Lai, K.-h., Wong, C. W., `Xin, X.`, & Lun, V. Y. (2024). Smart ports for sustainable shipping: concept and practices revisited through the case study of China’s Tianjin port. *Maritime Economics & Logistics*, 1-46.
-
 - Chen, K., Yi, X., `Xin, X.*`, & Zhang, T. (2023). Liner shipping network design model with carbon tax, seasonal freight rate fluctuations and empty container relocation. *Sustainable Horizons*, 8, 100073.
+
+- Liu, M., Lai, K.-h., Wong, C. W., `Xin, X.`, & Lun, V. Y. (2024). Smart ports for sustainable shipping: concept and practices revisited through the case study of China’s Tianjin port. *Maritime Economics & Logistics*, 1-46.
 
 ### 教材
 ---
