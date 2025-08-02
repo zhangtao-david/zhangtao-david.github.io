@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-香港理工大学工程学院工业及系统工程学系（导师：[许敏](https://www.polyu.edu.hk/ise/people/academic-staff/min-xu/)教授）、同济大学经济与管理学院（导师：[何芳](https://sem.tongji.edu.cn/semch/15155.html)教授）联合培养双学位博士研究生。截至2025年8月1日，已发表SCI/SSCI检索论文30余篇，其中第一/通信作者论文24篇，ESI高被引论文1篇，<a href='https://scholar.google.com/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用次数"></a>，H指数达18。
+香港理工大学工程学院工业及系统工程学系（导师：[许敏](https://www.polyu.edu.hk/ise/people/academic-staff/min-xu/)教授）、同济大学经济与管理学院（导师：[何芳](https://sem.tongji.edu.cn/semch/15155.html)教授）联合培养双学位博士研究生。截至2025年8月1日，已发表SCI/SSCI检索论文15篇，<a href='https://scholar.google.com/citations?user=52BcCEUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用次数"></a>，H指数为9。
 
 我的研究领域主要涵盖：
 - 应急管理、人道主义物流
