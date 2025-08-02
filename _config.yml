@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "辛旭 - Xu (David) Xin"
-description              : "每天进步多一点，妈妈夸我小天才。"
-repository               : "xinxu-david/xinxu-david.github.io"
+title                    : "张涛 - Tao Zhang"
+description              : ""
+repository               : "zhangtao-david/zhangtao-david.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
-google_analytics_id      : "G-WGHLE34PNG" # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : "" # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "辛旭，Xu (David) Xin"
+  name             : "张涛，Tao Zhang"
   avatar           : "images/logo.png"
   bio              : "香港理工大学、同济大学"
   location         : "香港特别行政区、上海"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=EPQMk1kAAAAJ"
-  email            : "xu-david.xin@connect.polyu.hk"
-  researchgate     : "https://www.researchgate.net/profile/Xu-Xin-17"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=52BcCEUAAAAJ"
+  email            : "tao-zt.zhang@connect.polyu.hk"
+  researchgate     : "https://www.researchgate.net/profile/Tao-Zhang-359"
   uri              : 
   bitbucket        :
   codepen          :
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/xu-xin/" # e.g., "linkedin username"
+  linkedin         : "" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-0780-156X"
+  orcid            : "https://orcid.org/0000-0003-2654-1377"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
