@@ -29,7 +29,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2025.09 - 至今*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> 香港理工大学 [工业及及系统工程学系](https://www.polyu.edu.hk/ise/), 香港特别行政区, 博士研究生（联合培养），导师：许敏教授
+- *2025.09 - 至今*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> 香港理工大学 [工业及系统工程学系](https://www.polyu.edu.hk/ise/), 香港特别行政区, 博士研究生（联合培养），导师：许敏教授
 - *2023.09 - 至今*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> 同济大学 [经济与管理学院](https://sem.tongji.edu.cn/), 上海, 博士研究生，导师：何芳教授
 - *2018.09 - 2022.06*,  <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> 同济大学 [经济与管理学院](https://sem.tongji.edu.cn/), 上海, 本科
  
@@ -59,13 +59,23 @@ redirect_from:
 
 - 作者姓名旁标记符号“`*`”的，表示通信作者。
 
+- 
+
 - Xin, X., `Zhang, T.*`, Wang, X., He, F., & Wu, L. (2025). Risk-averse distributionally robust optimization for construction waste reverse logistics with a joint chance constraint. *Computers & Operations Research*, 173, 106829.
 
 - Xin, X., `Zhang, T.*`, He, F., Zhang, W., & Chen, K. (2023). Assessing and simulating changes in ecosystem service value based on land use/cover change in coastal cities: A case study of Shanghai, China. *Ocean & Coastal Management*, 239, 106591.
 
 - Xin, X., `Zhang, T.*`, Xiang, Z., & Liu, M. (2025). Battery electric vehicle transportation network robust pricing-infrastructure location model with boundedly rational travelers. *Applied Energy*, 386, 125606.
 
+- Li, Z., Wang, L., Wang, G., Xin, X., Chen, K., & `Zhang, T.*` (2024). Investment and subsidy strategy for low-carbon port operation with blockchain adoption. *Ocean & Coastal Management*, 248, 106966.
+
 - Chen, K., Guo, J., Xin, X., `Zhang, T.*`, & Zhang, W. (2023). Port sustainability through integration: A port capacity and profit-sharing joint optimization approach. *Ocean & Coastal Management*, 245, 106867.
+
+- Liu, M., Xin, X., Wang, X., `Zhang, T.`, & Chen, K. (2025). Dual-channel slot sales strategy for container liner shipping companies with blockchain technology adoption. *Transport Policy*, 162, 200-220.
+
+- Xiang, Z., Xin, X., `Zhang, T.`, Chen, K., & Liu, M. (2025). Asia‒Europe liner shipping network design model considering Arctic route and black carbon tax. Ocean & Coastal Management, 261, 107492.
+
+- Xin, X., Liu, M., Wang, X., `Zhang, T.`, Gao, L., & Chen, K. (2022). Evolutionary analysis of Japan’s nuclear wastewater discharge events considering the impact of participants’ emotions. *Ocean & Coastal Management*, 225, 106231.
 
 - Chen, K., Yi, X., Xin, X., & `Zhang, T.*` (2023). Liner shipping network design model with carbon tax, seasonal freight rate fluctuations and empty container relocation. *Sustainable Horizons*, 8, 100073.
 
@@ -100,3 +110,4 @@ redirect_from:
 ---
 
 - Sustainable cities and society，Journal of Cleaner Production
+
