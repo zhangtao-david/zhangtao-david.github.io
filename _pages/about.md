@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-香港理工大学工程学院工业及系统工程学系（导师：[许敏](https://www.polyu.edu.hk/ise/people/academic-staff/min-xu/)教授）、同济大学经济与管理学院（导师：[何芳](https://sem.tongji.edu.cn/semch/15155.html)教授）联合培养双学位博士研究生。截至2025年8月1日，已发表SCI/SSCI检索论文15篇，<a href='https://scholar.google.com/citations?user=52BcCEUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用次数"></a>，H指数为9。
+香港理工大学工程学院工业及系统工程学系（导师：[许敏](https://www.polyu.edu.hk/ise/people/academic-staff/min-xu/)教授）、同济大学经济与管理学院（导师：[何芳](https://sem.tongji.edu.cn/semch/15213.html)教授）联合培养双学位博士研究生。截至2025年8月1日，已发表SCI/SSCI检索论文15篇，<a href='https://scholar.google.com/citations?user=52BcCEUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用次数"></a>，H指数为9。
 
 我的研究领域主要涵盖：
 - 应急管理、人道主义物流
@@ -29,8 +29,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2025.09 - 至今*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> 香港理工大学 [工业及系统工程学系](https://www.polyu.edu.hk/ise/), 香港特别行政区, 博士研究生（联合培养），导师：许敏教授
-- *2023.09 - 至今*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> 同济大学 [经济与管理学院](https://sem.tongji.edu.cn/), 上海, 博士研究生，导师：何芳教授
+- *2025.09 - 至今*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> 香港理工大学 [工业及系统工程学系](https://www.polyu.edu.hk/ise/), 香港特别行政区, 博士研究生（联合培养），导师：[许敏](https://www.polyu.edu.hk/ise/people/academic-staff/min-xu/)教授
+- *2022.09 - 至今*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> 同济大学 [经济与管理学院](https://sem.tongji.edu.cn/), 上海, 博士研究生（硕博连读），导师：[何芳](https://sem.tongji.edu.cn/semch/15213.html)教授
 - *2018.09 - 2022.06*,  <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> 同济大学 [经济与管理学院](https://sem.tongji.edu.cn/), 上海, 本科
  
 <span class='anchor' id='-lwzl'></span>
@@ -59,8 +59,6 @@ redirect_from:
 
 - 作者姓名旁标记符号“`*`”的，表示通信作者。
 
-- 
-
 - Xin, X., `Zhang, T.*`, Wang, X., He, F., & Wu, L. (2025). Risk-averse distributionally robust optimization for construction waste reverse logistics with a joint chance constraint. *Computers & Operations Research*, 173, 106829.
 
 - Xin, X., `Zhang, T.*`, He, F., Zhang, W., & Chen, K. (2023). Assessing and simulating changes in ecosystem service value based on land use/cover change in coastal cities: A case study of Shanghai, China. *Ocean & Coastal Management*, 239, 106591.
@@ -85,13 +83,16 @@ redirect_from:
 
 ### 荣誉称号
 ---
-
+- 同济大学优秀学生
 
 
 ### 创新创业竞赛
 ---
+- *2022.09* 获得 第八届中国国际“互联网+”大学生创新创业大赛 `上海市金奖`
+- *2023.01* 获得 “华为杯”第十九届中国研究生数学建模竞赛 `国家三等奖`
+- *2023.08* 获得 第十六届全国大学生节能减排社会实践与科技竞赛 `国家二等奖`
+- *2024.08* 获得 第十七届全国大学生节能减排社会实践与科技竞赛 `国家二等奖`
 
-- *2022.08* 获得 “六百光年杯”第十五届全国大学生节能减排社会实践与科技竞赛 `国家一等奖` [[新闻]](https://news.tongji.edu.cn/info/1003/81684.htm)
 <span class='anchor' id='-xshy'></span>
 
 # 💬 学术会议
@@ -108,6 +109,6 @@ redirect_from:
 
 ### 期刊审稿人
 ---
-
 - Sustainable cities and society，Journal of Cleaner Production
+
 
