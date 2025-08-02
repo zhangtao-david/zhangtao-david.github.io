@@ -31,7 +31,7 @@ redirect_from:
 # 🎓 学历
 - *2025.09 - 至今*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> 香港理工大学 [工业及及系统工程学系](https://www.polyu.edu.hk/ise/), 香港特别行政区, 博士研究生（联合培养），导师：许敏教授
 - *2023.09 - 至今*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> 同济大学 [经济与管理学院](https://sem.tongji.edu.cn/), 上海, 博士研究生，导师：何芳教授
-- *2018.09 - 2022.06*,  <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> 同济大学 [经济与管理学院](https://sem.tongji.edu.cn/), 上海, 本科，导师：胡照林教授
+- *2018.09 - 2022.06*,  <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> 同济大学 [经济与管理学院](https://sem.tongji.edu.cn/), 上海, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -76,7 +76,7 @@ redirect_from:
 ### 荣誉称号
 ---
 
-- *2025.05* 获得 上海市普通高等学校优秀毕业生
+
 
 ### 创新创业竞赛
 ---
@@ -98,4 +98,5 @@ redirect_from:
 
 ### 期刊审稿人
 ---
+
 - Sustainable cities and society，Journal of Cleaner Production
