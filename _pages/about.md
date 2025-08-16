@@ -109,9 +109,10 @@ redirect_from:
 
 ### 期刊审稿人
 ---
-- Sustainable cities and society，Journal of Cleaner Production
+- Socio-Economic Planning Sciences，Sustainable cities and society，Journal of Cleaner Production
 
 <span class='anchor' id='-yqlj'></span>
 
 # 🤟友情链接
+
 - [辛旭](http://xinxu.space/)（同济大学、香港理工大学联合培养博士研究生，研究方向：应急管理、物流系统优化、航运管理）
